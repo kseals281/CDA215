@@ -1,0 +1,45 @@
+h1 {
+  color: red;
+  font-size: 60px;
+  font-family: bold;
+}
+h2 {
+  color: orange;
+  font-size: 50px;
+  font-family: bold;
+}
+h3 {
+  color: green;
+  font-size: 40px;
+  font-family: bold;
+}
+h4 {
+  color: blue;
+  font-size: 30px;
+  font-family: bold;
+}
+h5 {
+  color: purple;
+  font-size: 20px;
+  font-family: bold;
+}
+h6 {
+  color: grey;
+  font-size: 20px;
+  font-family: bold
+}
+p {
+  font-family: cursive;
+}
+table {
+  border: 1px solid black;
+}
+th {
+  font-weight: bold;font-size: 30px;border: 3px dashed red
+}
+tr {
+  border: 1px solid black;
+}
+td {
+  border: 1px solid black;
+}

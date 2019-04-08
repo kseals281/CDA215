@@ -1,0 +1,18 @@
+body {
+	background-color: lightblue;
+}
+table {
+  background-color: lightgreen;
+  border: 1px solid black;
+}
+th {
+  font-weight: bold;
+  font-size: 30px;
+  border: 3px dashed red;
+}
+tr {
+  border: 1px solid black;
+}
+td {
+  border: 1px solid black;
+}

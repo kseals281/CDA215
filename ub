@@ -1,0 +1,26 @@
+img {
+    height: 50px;
+    width: 50px;
+    float: right;
+    padding-top: 10px;
+}
+
+p {
+    font-family: Verdana, Geneva, sans-serif;;
+    clear: left;
+}
+
+tr {
+    text-align: center;
+    border: none;
+}
+
+@media print {
+    p {font-family: Arial}
+    table {border: black solid;}
+    tr {border: black solid;}
+    th {border: black solid;}
+    td {border: black solid;}
+    ol {list-style-type: none;}
+    img {display: none;}
+}

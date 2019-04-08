@@ -1,0 +1,13 @@
+.data {
+  width: 500px;
+  clear: both;
+}
+
+.data input {
+  width: 100%;
+  clear: both;
+}
+
+label {
+    font-size: 16px;
+}
